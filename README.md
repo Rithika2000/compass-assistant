@@ -114,9 +114,10 @@ any personally identifiable information misuse. We will also implement bias chec
 fair and inclusive recommendations across all institutions, regardless of their location or profile,
 avoiding favoritism or unbalanced suggestions.
 
-## Streamlit App link: https://compass-education.streamlit.app/![image](https://github.com/user-attachments/assets/5f5d69c8-254f-479d-9892-e8db6d52a3eb)
+## Streamlit App link:
+https://compass-education.streamlit.app/![image](https://github.com/user-attachments/assets/5f5d69c8-254f-479d-9892-e8db6d52a3eb)
 
-## Below are the images of the deployment of the app.Please look at it for better understanding
+### Below are the images of the deployment of the app.Please look at it for better understanding
 
 * Login Page
   
