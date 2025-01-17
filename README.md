@@ -113,3 +113,23 @@ approach includes anonymizing user data and ensuring secure handling of preferen
 any personally identifiable information misuse. We will also implement bias checks to ensure
 fair and inclusive recommendations across all institutions, regardless of their location or profile,
 avoiding favoritism or unbalanced suggestions.
+
+## Streamlit App link: https://compass-education.streamlit.app/![image](https://github.com/user-attachments/assets/5f5d69c8-254f-479d-9892-e8db6d52a3eb)
+
+## Below are the images of the deployment of the app.Please look at it for better understanding
+
+* Login Page
+  
+<img width="1338" alt="cp1" src="https://github.com/user-attachments/assets/6af181be-72d9-4194-8dff-7a4cfc9c83b8" />
+
+<img width="1435" alt="cp2" src="https://github.com/user-attachments/assets/645b729c-4ed1-44b8-be75-5f37626e543f" />
+
+<img width="1440" alt="cp3" src="https://github.com/user-attachments/assets/ec126bc2-b6bd-4b04-84a1-40d935fa123c" />
+
+<img width="1221" alt="cp4" src="https://github.com/user-attachments/assets/9ab4cf51-9c10-4d60-b04d-1f9638d5603b" />
+
+
+
+
+
+
