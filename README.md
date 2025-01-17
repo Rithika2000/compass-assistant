@@ -115,11 +115,12 @@ fair and inclusive recommendations across all institutions, regardless of their 
 avoiding favoritism or unbalanced suggestions.
 
 ## Streamlit App link:
+
 https://compass-education.streamlit.app/![image](https://github.com/user-attachments/assets/5f5d69c8-254f-479d-9892-e8db6d52a3eb)
 
 ### Below are the images of the deployment of the app.Please look at it for better understanding
 
-* Login Page
+** Login Page
   
 <img width="1338" alt="cp1" src="https://github.com/user-attachments/assets/6af181be-72d9-4194-8dff-7a4cfc9c83b8" />
 
