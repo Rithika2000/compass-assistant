@@ -120,19 +120,19 @@ https://compass-education.streamlit.app/![image](https://github.com/user-attachm
 
 ### Below are the images of the deployment of the app.Please look at it for better understanding
 
-** Login Page
+**Login Page**
   
 <img width="1338" alt="cp1" src="https://github.com/user-attachments/assets/6af181be-72d9-4194-8dff-7a4cfc9c83b8" />
 
-* User Preferences Page
+**User Preferences Page**
   
 <img width="1440" alt="Screenshot 2025-01-17 at 3 36 43 PM" src="https://github.com/user-attachments/assets/a64b5787-6b48-4481-ac13-d50157f2fd41" />
 
-* Top 3 University Recommendations
+**Top 3 University Recommendations**
   
 <img width="1440" alt="cp3" src="https://github.com/user-attachments/assets/ec126bc2-b6bd-4b04-84a1-40d935fa123c" />
 
-* When prompt is given,how the chatbot responds
+**When prompt is given,how the chatbot responds**
   
 <img width="1221" alt="cp4" src="https://github.com/user-attachments/assets/9ab4cf51-9c10-4d60-b04d-1f9638d5603b" />
 
