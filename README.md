@@ -1,4 +1,4 @@
-#Comprehensive Master’s Program Assistant for Student Success
+# Comprehensive Master’s Program Assistant for Student Success
 
 ## Team Members 
   * Shashank Guda
@@ -36,62 +36,78 @@ courses, and anticipated trends in the job market.
 
 ## Target Users
 
-* Prospective Graduate Students:
+* 1. Prospective Graduate Students:
     
-  * Students planning master’s studies in the U.S., looking for guidance on
-    selecting programs that align with career goals, budget, and lifestyle
-    preferences.
+     * Students planning master’s studies in the U.S., looking for guidance on
+       selecting programs that align with career goals, budget, and lifestyle
+       preferences.
     
-  * This audience includes recent graduates and professionals seeking career
-    advancement or a field switch, with a strong focus on industry demand
-    and job market trends.
+     * This audience includes recent graduates and professionals seeking career
+       advancement or a field switch, with a strong focus on industry demand
+       and job market trends.
+       
+* 2. Educational Consultants and Advisors:
+    
+       * University admissions advisors who guide students on studying abroad,
+         needing up-to-date insights on top programs, job markets, and relevant
+         economic data.
+         
+     * Study abroad consultants assisting students in choosing programs by
+       providing specific advice on program quality, geographic factors, and
+       application timing.
+       
+* 3. Parents and Guardians:
+     
+     * Parents or guardians financially supporting students, interested in
+       educational choices that align with family resources and potential job
+       prospects.
+       
+     * Seeking a reliable resource for understanding program value, costs, and
+       career outcomes relevant to the student’s aspirations.
 
+* 4. Government and Nonprofit Organizations:
+     
+     * Scholarship and sponsorship providers who wish to fund students in highdemand programs aligned with organizational goals and market 
+       needs.
+       
+     * These organizations require data-driven insights to support students in programs with high career potential and alignment with    
+       global economic trends. The chatbot could allow input of program criteria to filter and
+       recommend universities that align with specific funding priorities.
 
-  * Educational Consultants and Advisors:
-    
-      * University admissions advisors who guide students on studying abroad,
-      needing up-to-date insights on top programs, job markets, and relevant
-      economic data.
-• Study abroad consultants assisting students in choosing programs by
-providing specific advice on program quality, geographic factors, and
-application timing.
-c. Parents and Guardians:
-• Parents or guardians financially supporting students, interested in
-educational choices that align with family resources and potential job
-prospects.
-• Seeking a reliable resource for understanding program value, costs, and
-career outcomes relevant to the student’s aspirations.
-d. Government and Nonprofit Organizations:
-• Scholarship and sponsorship providers who wish to fund students in highdemand programs aligned with organizational goals and market needs.
-• These organizations require data-driven insights to support students in
-programs with high career potential and alignment with global economic
-trends. The chatbot could allow input of program criteria to filter and
-recommend universities that align with specific funding priorities.
-Data Requirements
+## Data Requirements
+
 To deliver personalized and informed recommendations, the app will rely on multiple datasets:
-• University Data: Location, tuition fees, living expenses, admission criteria, placement
+
+ * University Data: Location, tuition fees, living expenses, admission criteria, placement
 rates, and top-rated courses by university.
-• Geographical Data: State-wise information on average weather conditions, cost of
+
+ * Geographical Data: State-wise information on average weather conditions, cost of
 living, and available industries.
-• Job Market Data: Trends in hiring by field, company requirements for graduates, and
+
+ * Job Market Data: Trends in hiring by field, company requirements for graduates, and
 projections for growth or decline in various sectors.
-• Economic and Political Data: Cyclical job market trends to assess potential influences
+
+ * Economic and Political Data: Cyclical job market trends to assess potential influences
 on job prospects for graduates.
-• Scholarship Data: Information on university-based and external scholarship
+
+ * Scholarship Data: Information on university-based and external scholarship
 opportunities, with eligibility criteria and application timelines for international students.
-IST-688 Project Proposal
-3
-Data Handling & RAG Architecture
+
+## Data Handling & RAG Architecture
+
 The chatbot will use a vector database to store user session data, allowing for memory
 persistence across interactions. The data sourcing will involve real-time access for job market
 trends, with periodic updates for university and economic data. A high-level flow will involve:
-• Data retrieval modules for user inputs, job market trends, and university
+
+ * Data retrieval modules for user inputs, job market trends, and university
 recommendations.
-• Vector database integration to handle retrieval-augmented generation (RAG) for
+ * Vector database integration to handle retrieval-augmented generation (RAG) for
 seamless, contextually aware responses.
-• Session management to ensure user preferences are retained, allowing for personalized,
+ * Session management to ensure user preferences are retained, allowing for personalized,
 session-consistent recommendations.
-Ethical Considerations
+
+## Ethical Considerations
+
 Data privacy is a key concern, especially given the personalized nature of recommendations. Our
 approach includes anonymizing user data and ensuring secure handling of preferences to avoid
 any personally identifiable information misuse. We will also implement bias checks to ensure
