@@ -36,7 +36,7 @@ courses, and anticipated trends in the job market.
 
 ## Target Users
 
-* 1. Prospective Graduate Students:
+ 1. Prospective Graduate Students:
     
      * Students planning master’s studies in the U.S., looking for guidance on
        selecting programs that align with career goals, budget, and lifestyle
@@ -46,7 +46,7 @@ courses, and anticipated trends in the job market.
        advancement or a field switch, with a strong focus on industry demand
        and job market trends.
        
-* 2. Educational Consultants and Advisors:
+ 2. Educational Consultants and Advisors:
     
        * University admissions advisors who guide students on studying abroad,
          needing up-to-date insights on top programs, job markets, and relevant
@@ -56,7 +56,7 @@ courses, and anticipated trends in the job market.
        providing specific advice on program quality, geographic factors, and
        application timing.
        
-* 3. Parents and Guardians:
+ 3. Parents and Guardians:
      
      * Parents or guardians financially supporting students, interested in
        educational choices that align with family resources and potential job
@@ -65,7 +65,7 @@ courses, and anticipated trends in the job market.
      * Seeking a reliable resource for understanding program value, costs, and
        career outcomes relevant to the student’s aspirations.
 
-* 4. Government and Nonprofit Organizations:
+ 4. Government and Nonprofit Organizations:
      
      * Scholarship and sponsorship providers who wish to fund students in highdemand programs aligned with organizational goals and market 
        needs.
